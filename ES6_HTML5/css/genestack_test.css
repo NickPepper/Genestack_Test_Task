@@ -1,0 +1,21 @@
+/**
+ * @file: Styles for Genstack Test page
+ * @author: Nick Pershin
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+}
+
+button,
+input[type=button] {
+    padding: 10px;
+    cursor: pointer;
+    outline: none;
+    background-color: #9F9;
+}
